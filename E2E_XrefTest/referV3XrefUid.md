@@ -2,4 +2,4 @@
 author: staceyhong
 title: xref test
 ---
-@test-uid-docfxv3-prod
+@test-uid-docfxv3
