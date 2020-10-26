@@ -1,6 +1,7 @@
 ---
 author: staceyhong
-title: xref test
+title: xref test in prod
 ---
-# xrefuid resolution test
+
+# test uid in docfxv3
 @test-uid-docfxv3
