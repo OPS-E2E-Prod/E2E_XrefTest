@@ -2,4 +2,5 @@
 author: staceyhong
 title: xref test
 ---
-# @test-uid-docfxv3
+# xrefuid resolution test
+@test-uid-docfxv3
